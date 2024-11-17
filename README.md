@@ -1,4 +1,5 @@
-Event Management System Using Django
+
+# Event Management System Using Django
 Dependency
 
 Django pip install Django
